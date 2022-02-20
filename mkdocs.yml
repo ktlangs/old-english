@@ -1,0 +1,23 @@
+site_name: Old English
+theme:
+  name: material
+  palette:
+    primary: brown
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+
+# nav:
+#   - Pronouns:
+#     - pronouns/index.md
+#     - Personal pronouns: pronouns/personal_pronouns.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
