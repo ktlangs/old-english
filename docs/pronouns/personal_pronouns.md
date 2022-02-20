@@ -25,6 +25,12 @@
 | Genitive | his | his | hire |
 
 ### Plural
+| Case |  |
+|:---:|:---:|
+| Nominative | hīe |
+| Accusative | hīe |
+| Dative | him |
+| Genitive | heora |
 
 ## Genitive pronouns
 Genitive pronouns always agree with the possessor, not the noun it modifiers.  
